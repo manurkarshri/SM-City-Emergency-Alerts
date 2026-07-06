@@ -1,0 +1,24 @@
+{
+  "alerts": [
+    {
+      "zone": "all",
+      "locality": "All Localities",
+      "title": "CITY EMERGENCY ALERTS is active. No manual emergency alert currently issued.",
+      "source": "Emergency Command",
+      "link": "#",
+      "pubDate": "2026-07-06T16:00:00+05:30",
+      "priority": "low",
+      "durationHours": 24
+    },
+    {
+      "zone": "pune",
+      "locality": "Pune City",
+      "title": "Traffic and road condition monitoring is active for Pune city.",
+      "source": "Emergency Command",
+      "link": "https://x.com/PuneCityPolice",
+      "pubDate": "2026-07-06T16:00:00+05:30",
+      "priority": "low",
+      "expiresAt": "2026-07-07T16:00:00+05:30"
+    }
+  ]
+}
