@@ -13,4 +13,3 @@ Upload extracted contents to repository root.
 
 ## Notes
 No paid APIs are used. The live feed uses public Google News RSS through free CORS/RSS proxy paths and direct official dashboard links.
-V3
