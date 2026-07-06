@@ -1,0 +1,22 @@
+{
+  "alerts": [
+    {
+      "zone": "all",
+      "locality": "All Localities",
+      "title": "SM-City-Emergency-Alerts V2 is active. No manual emergency alert currently issued.",
+      "source": "SM Emergency Command",
+      "link": "#",
+      "pubDate": "2026-07-06T16:00:00+05:30",
+      "priority": "low"
+    },
+    {
+      "zone": "pune",
+      "locality": "Pune City",
+      "title": "Traffic and road condition monitoring is active for Pune city.",
+      "source": "SM Emergency Command",
+      "link": "#",
+      "pubDate": "2026-07-06T16:00:00+05:30",
+      "priority": "low"
+    }
+  ]
+}
