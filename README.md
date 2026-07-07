@@ -10,3 +10,4 @@
 - Map and emergency contacts moved into Emergency tab.
 - Emergency Readiness Score intentionally not included.
 - No paid APIs; weather uses Open-Meteo free API.
+## V4 updates
